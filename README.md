@@ -62,9 +62,10 @@ specializing in **Unity** and **C#**.
 
 ---
 
-## 🐍 Gamer Snake  
+## 🐍 Contribution Snake
 
-![snake gif](https://github.com/irtazahassan460/irtazahassan460/blob/output/github-contribution-grid-snake.svg)  
+![GitHub Snake](https://raw.githubusercontent.com/irtazahassan460/irtazahassan460/output/github-contribution-grid-snake.svg)
+
 
 ---
 
